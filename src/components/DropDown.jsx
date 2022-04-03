@@ -13,10 +13,10 @@ const DropDown = () => {
         id="selectSubject"
       >
         <option value="">pick subject</option>
-        <option value="apple">apple</option>
+        <option value="music">music</option>
         <option value="covid">covid</option>
-        <option value="london">london</option>
-        <option value="sea">sea</option>
+        <option value="beauty">beauty</option>
+        <option value="art">art</option>
       </select>
     </div>
   );

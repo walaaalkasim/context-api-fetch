@@ -10,7 +10,7 @@ const SearchInput = () => {
       <form>
         <input
           type="text"
-          maxLength="20"
+          maxLength="200"
           value={input}
           onChange={(e) => handleChange(e)}
         />
